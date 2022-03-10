@@ -1,0 +1,15 @@
+
+var nomeee = "convertendo";
+var nome = " Graus Celcius ";
+var nomee = " Em Graus Fahrenheit ";
+var nnome = " Valor ja convertido sera ";
+
+var Grauss = 7.15;
+var Grausss = 8.15;
+var Grauus = 9.15;
+var Grauuus = 9.15;
+
+var GrausFahrenheit = ((Grauss + Grausss + Grauus + Grauuus) * 9) / 5 + 32;
+
+console.log(nomeee + nome + nomee);
+console.log(nnome + GrausFahrenheit);
